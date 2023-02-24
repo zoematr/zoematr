@@ -1,6 +1,1 @@
-👋 Hi, I’m @zoematr
-
-<!---
-zoematr/zoematr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science and Artificial Intelligence student passionate about graphics and visual arts🏄🏽‍♀️
